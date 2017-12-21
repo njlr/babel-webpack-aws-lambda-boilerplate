@@ -16,6 +16,12 @@ Run the demo handler locally:
 babel-node runner.js
 ```
 
+To build the code: 
+
+```bash=
+yarn build
+```
+
 To package everything for AWS: 
 
 ```bash=
